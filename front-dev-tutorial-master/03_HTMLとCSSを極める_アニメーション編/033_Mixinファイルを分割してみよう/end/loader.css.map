@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["loader.scss","other-folder/_mixin.scss"],"names":[],"mappings":"AAIA;EACE;;;AAGF;EACE;EACA;EACA;EACA,kBAVO;ECSH,gBDE0B;ECD1B,oBATS;EAUT,2BATgB;EAUhB,iBATM;EAUN,2BATgB;EAUhB,qBATU;EAUV,qBATU;;;ADahB;EACE;;;AAGF;EACE;IACE;IACA;;EAGF;IACE;IACA","file":"loader.css"}

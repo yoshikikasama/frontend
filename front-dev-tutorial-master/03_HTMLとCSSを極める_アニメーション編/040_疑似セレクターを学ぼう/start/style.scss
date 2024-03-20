@@ -1,0 +1,12 @@
+a {
+    color: orange;
+    &:visited{
+        color: blue;
+    }
+}
+
+div {
+    & span {
+        color: olive;
+    }
+}
